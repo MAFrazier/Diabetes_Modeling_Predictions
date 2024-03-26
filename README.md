@@ -14,6 +14,6 @@
 - Pregnancies : Number of times pregnant
 - Skin Thickness : Triceps skin fold thickness (mm)
 
-[Diabetes Dataset](Dataset/Diabetes.csv)
+[Diabetes Dataset](Dataset/diabetes.csv)
 
 
