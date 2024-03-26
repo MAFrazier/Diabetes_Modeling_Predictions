@@ -9,15 +9,15 @@
 - Blood Pressure : Diastolic blood pressure (mm Hg)
 - BMI : Body mass index (weight in kg/(height in m)^2)
 - Diabetes Pedigree Function (DPF) : function scores likelihood of diabetes based on family history
-- Glucose : Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+- Glucose : Plasma glucose concentration, a 2 hours in an oral glucose tolerance test
 - Insulin : 2-Hour serum insulin (mu U/ml)
 - Pregnancies : Number of times pregnant
 - Skin Thickness : Triceps skin fold thickness (mm)
-### Correlation Matrix - how each variable is a indicator for the likelihood of diabetes diagnoises
+### Correlation Matrix - how each variable is an indicator for the likelihood of diabetes diagnosis
 ### Data Preparation
 ### Model Building
 ### Evaluation
-### Predicition
+### Prediction
 
 
 
