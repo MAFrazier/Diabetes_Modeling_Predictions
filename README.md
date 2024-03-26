@@ -1,6 +1,8 @@
-# <ins>Diabetes Modeling Predictions Project
+# Diabetes Modeling Predictions Project
 *by Maria Awosanya Frazier, Mitch Murray, Yvens Joseph*
 ## Project Presentation on Tableau: <ins>[Diabetes Modeling Predictions](https://public.tableau.com/app/profile/maria.awosanya.frazier/viz/DiabetesModelingPredictions/DiabeteModelingPredictions?publish=yes)
+
+![image](Project_DPM.png)
 
 ## <ins>Project Overview<ins>
 ### This project uses machine learning to create a modeling predition to determine if a patient is likely to have Diabetes. To do this a number of variables and their outcome relationship to the likelihood of diabetes were evaluated. 
@@ -18,7 +20,6 @@
 ### Model Building
 ### Evaluation
 ### Prediction
-
 
 
 ### [Diabetes Dataset](Dataset/diabetes.csv) 
