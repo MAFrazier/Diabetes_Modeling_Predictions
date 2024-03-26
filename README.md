@@ -1,10 +1,12 @@
-# <ins>Diabetes Modeling Predictions Project<ins>
-*Exploring Diabetes Dataset, Model Building, Evaluation, and Predictions*
+# <ins>Diabetes Modeling Predictions Project
+*by Maria Awosanya Frazier, Mitch Murray, Yvens Joseph*
 
-## Presentation on Tableau: [Diabetes Modeling Predictions](https://public.tableau.com/app/profile/maria.awosanya.frazier/viz/DiabetesModelingPredictions/DiabeteModelingPredictions?publish=yes)
+Exploring Diabetes Dataset, Model Building, Evaluation, and Predictions
+## Project Presentation on Tableau: [Diabetes Modeling Predictions](https://public.tableau.com/app/profile/maria.awosanya.frazier/viz/DiabetesModelingPredictions/DiabeteModelingPredictions?publish=yes)
 
+## <ins>Project Overview<ins>
 ### This project uses machine learning to create a modeling predition to determine if a patient is likely to have Diabetes. To do this a number of variables and their outcome relationship to the likelihood of diabetes were evaluated. 
-### <ins>Variables<ins>:
+### Variables:
 - Age : at least 21 years old of the same heritage (all females)
 - Blood Pressure : Diastolic blood pressure (mm Hg)
 - BMI : Body mass index (weight in kg/(height in m)^2)
@@ -13,7 +15,17 @@
 - Insulin : 2-Hour serum insulin (mu U/ml)
 - Pregnancies : Number of times pregnant
 - Skin Thickness : Triceps skin fold thickness (mm)
+### Correlation Matrix - how each variable is a indicator for the likelihood of diabetes diagnoises
+### Data Preparation
+### Model Building
+### Evaluation
+### Predicition
 
-[Diabetes Dataset](Dataset/diabetes.csv)
+
+
+### [Diabetes Dataset](Dataset/diabetes.csv) 
+Citation: National Institute of Diabetes and Digestive and Kidney Diseases. (1990). Diabetes Dataset [diabetes.csv]. Retrieved from https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
+
 
 
