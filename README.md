@@ -16,10 +16,10 @@
 - Pregnancies : Number of times pregnant
 - Skin Thickness : Triceps skin fold thickness (mm)
 ### Correlation Matrix - how each variable is an indicator for the likelihood of diabetes diagnosis
-### Data Preparation
-### Model Building
-### Evaluation
-### Prediction
+### Data Preparation - Analyzing and interpreting the data presented in the CSV file.
+### Model Building - Steps implemented to develop the model for diagnosing predictions.
+### Evaluation - Results for before and after model optimization.
+### Prediction - Manually inputting values to assess the model's diagnostic predictive capabilities.
 
 
 ### [Diabetes Dataset](Dataset/diabetes.csv) 
